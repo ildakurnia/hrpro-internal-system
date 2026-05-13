@@ -45,8 +45,7 @@ During my internship, I contributed to several core modules, focusing on scalabi
 - Built a workflow for automated certificate generation.
 - Organized learning content and categorization for better accessibility.
 
-#### 📸 Preview
-<img src="screenshots/learning_center_censored.png" width="500" alt="Tampilan Learning Center">
+
 
 ### 💡 Knowledge Base
 
@@ -60,8 +59,7 @@ During my internship, I contributed to several core modules, focusing on scalabi
 - Implemented secure file upload and document categorization.
 - Managed document access workflows to ensure security.
 
-#### 📸 Preview
-<img src="screenshots/dokumen_perusahaan_censored.png" width="500" alt="Tampilan Dokumen Perusahaan">
+
 
 ### 📈 KPI Activity
 
@@ -69,8 +67,7 @@ During my internship, I contributed to several core modules, focusing on scalabi
 - Built the daily activity submission workflow.
 - Implemented activity monitoring and reporting features for management review.
 
-#### 📸 Preview
-<img src="screenshots/kpi_activity_censored.png" width="500" alt="Tampilan KPI Activity">
+
 
 ---
 
@@ -103,7 +100,7 @@ During my internship, I contributed to several core modules, focusing on scalabi
 ## 🔒 Confidentiality Note
 
 > [!IMPORTANT]
-> This repository is a portfolio showcase of my contributions to the HRPRO internal system. Due to company confidentiality policies, only non-sensitive parts of the project are displayed, and some screens have been replaced with dummy data.
+> This repository is a portfolio showcase of my contributions to the HRPRO internal system. Due to company confidentiality policies, only non-sensitive parts of the project are displayed.
 
 ---
 
