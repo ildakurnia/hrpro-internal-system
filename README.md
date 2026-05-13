@@ -46,7 +46,7 @@ During my internship, I contributed to several core modules, focusing on scalabi
 - Organized learning content and categorization for better accessibility.
 
 #### 📸 Preview
-![Tampilan Learning Center](screenshots/learning_center_censored.png)
+<img src="screenshots/learning_center_censored.png" width="500" alt="Tampilan Learning Center">
 
 ### 💡 Knowledge Base
 
@@ -61,13 +61,16 @@ During my internship, I contributed to several core modules, focusing on scalabi
 - Managed document access workflows to ensure security.
 
 #### 📸 Preview
-![Tampilan Dokumen Perusahaan](screenshots/dokumen_perusahaan_censored.png)
+<img src="screenshots/dokumen_perusahaan_censored.png" width="500" alt="Tampilan Dokumen Perusahaan">
 
 ### 📈 KPI Activity
 
 - Developed the employee KPI activity management and monitoring system.
 - Built the daily activity submission workflow.
 - Implemented activity monitoring and reporting features for management review.
+
+#### 📸 Preview
+<img src="screenshots/kpi_activity_censored.png" width="500" alt="Tampilan KPI Activity">
 
 ---
 
